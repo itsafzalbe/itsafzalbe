@@ -1,28 +1,30 @@
-<h1 align="center">Hi, I'm Afzalbek</h1>
-<h3 align="center">Backend Developer from Uzbekistan</h3>
+# Hi, I'm Afzalbek
 
-<p>
-I am a Computer Science student focused on backend development and API design.
-</p>
+Backend developer from Uzbekistan.  
+Focused on Python and API development.
 
-<p>
-I build applications using Django, Django REST Framework, and FastAPI.
-</p>
+## Technologies
 
-<p>
-<strong>Technologies:</strong><br>
-Python<br>
-Django<br>
-Django REST Framework<br>
-FastAPI<br>
-PostgreSQL<br>
-SQLite<br>
-Git<br>
-Linux<br>
-C / C++
-</p>
+<table>
+<tr>
+<td valign="top">
 
-<p>
-<strong>Contact:</strong><br>
-billionaire0824@gmail.com
-</p>
+- Python  
+- Django  
+- Django REST Framework  
+- FastAPI  
+
+</td>
+<td valign="top">
+
+- PostgreSQL  
+- SQLite  
+- Git  
+- Linux  
+- C / C++  
+
+</td>
+</tr>
+</table>
+
+Contact: billionaire0824@gmail.com
