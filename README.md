@@ -5,26 +5,12 @@ Focused on Python and API development.
 
 ## Technologies
 
-<table>
-<tr>
-<td valign="top">
-
-- Python  
-- Django  
-- Django REST Framework  
-- FastAPI  
-
-</td>
-<td valign="top">
-
-- PostgreSQL  
-- SQLite  
-- Git  
-- Linux  
-- C / C++  
-
-</td>
-</tr>
-</table>
+| Backend & APIs                | Tools & Systems      |
+|------------------------------|----------------------|
+| Python                       | Git                  |
+| Django                       | Linux                |
+| Django REST Framework        | PostgreSQL           |
+| FastAPI                      | SQLite               |
+| C / C++                      |                      |
 
 Contact: billionaire0824@gmail.com
