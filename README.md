@@ -1,54 +1,85 @@
 <div align="center">
-  <h1>Hi, I'm <a href="mailto:billionaire0824@gmail.com">Afzalbek</a> 👋</h1>
-  <p><strong>Backend Developer from Uzbekistan</strong></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
+
+Afzalbek Tohirjonov
+
+Backend Engineer • Computer Science Student • FinTech & Cloud Enthusiast
+
+Building scalable backend systems, APIs, and cloud-native applications.
+
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-<br/>
+⸻
 
-## 🚀 About Me
-I am a backend specialist focused on building robust and scalable server-side architectures. My passion lies in **API design** and optimizing database performance.
+About Me
 
-* 🌍 Based in **Uzbekistan**
-* ⚡ Technical Focus: **Python Ecosystem & RESTful Services**
-* 🛠 Currently mastering: **Microservices & System Design**
+I’m a Computer Science student at Webster University in Tashkent focused on backend development, distributed systems, and cloud technologies.
 
----
+My interests include building scalable APIs, designing reliable systems, and exploring technologies used in modern fintech and cloud infrastructure.
 
-## 🛠 Tech Stack & Tools
+* 🎓 B.S. Computer Science
+* 🌍 Based in Uzbekistan
+* 💡 Interested in FinTech, Cloud Computing, and Distributed Systems
+* 📚 Currently learning Java, Spring Boot, Go, and Kubernetes
+* 🚀 Building real-world backend projects and continuously improving software engineering skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Core Technologies</h3>
-      <ul>
-        <li>Python (Django / DRF / FastAPI)</li>
-        <li>PostgreSQL / SQLite</li>
-        <li>C / C++</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>DevOps & Tools</h3>
-      <ul>
-        <li>Git / GitHub</li>
-        <li>Linux (Ubuntu/Debian)</li>
-        <li>API Documentation (Swagger/Redoc)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+⸻
 
-<br/>
+Tech Stack
 
-<div align="center">
-  <h3>📫 Let's Connect</h3>
-  <a href="mailto:billionaire0824@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Languages
+
+* Java
+* Go
+* Python
+* SQL
+* C++
+
+Backend
+
+* Spring Boot
+* Django
+* Django REST Framework
+* FastAPI
+
+Databases
+
+* PostgreSQL
+* SQLite
+* MongoDB
+
+DevOps & Cloud
+
+* Docker
+* Git & GitHub
+* Linux
+* GitHub Actions
+* Nginx
+
+Currently Exploring
+
+* Kubernetes
+* Microservices
+* Apache Kafka
+* System Design
+
+⸻
+
+Goals
+
+* Build production-grade backend systems
+* Grow into a Software Engineer specializing in FinTech
+* Contribute to cloud-native and distributed applications
+* Gain international engineering experience
+
+⸻
+
+Connect
+
+📧 Email: billionaire0824@gmail.com
+
 </div>
