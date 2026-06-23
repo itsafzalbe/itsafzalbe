@@ -35,7 +35,7 @@ Outside of code I think a lot about system design, distributed architecture patt
 **Languages**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=python,java,go,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </div>
 
 <br/>
@@ -43,7 +43,7 @@ Outside of code I think a lot about system design, distributed architecture patt
 **Backend Frameworks**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,spring" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </div>
 
 <br/>
