@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:billionaire0824@gmail.com">
+  <a href="mailto:avzalbektokhirjonov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-billionaire0824-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
