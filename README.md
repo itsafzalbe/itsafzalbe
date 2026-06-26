@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="mailto:avzalbektokhirjonov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-billionaire0824-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-avzalbektokhirjonov-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Uzbekistan-Tashkent-1DA462?style=flat-square&logo=googlemaps&logoColor=white"/>
